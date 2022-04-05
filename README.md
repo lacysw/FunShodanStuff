@@ -2,7 +2,7 @@
 
 A collection of interesting automation scripts to use with Shodan. Requires a free Shodan API key.
 
-Disclaimer: I am not rersponsible for the use of any code contained within this repository.
+Disclaimer: I am not responsible for the end use of any code contained within this repository.
 
 ## Find WordPress Installers
 
@@ -12,7 +12,7 @@ Queries Shodan for webpages with `/wp-admin/wp-install.php` accessible. Opens al
 
 ### Execution
 
-1. Run `./findWordPressInstallers.sh`.
+1. Run `./findWordPressInstallers.sh`
 2. Run the output file 
 
 ### Dependancies:
